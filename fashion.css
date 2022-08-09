@@ -1,0 +1,159 @@
+body {
+	background-color:#000000;
+	background-image:url("bg.jpg");
+	background-repeat:y-repeat;
+	background-size:100%;
+}
+
+#banner
+{
+	position:absolute;
+	top:0px;
+	width:1024px;
+	height:75px;
+	left:165px;
+}
+h1
+{
+	position:absolute;
+	top:20px;
+	width:1024px;
+	height:75px;
+	left:550px;
+	font-family:Gadugi;
+	font-size:14pt;
+	word-spacing:35px;
+	color:white;
+}
+#slide
+{
+	position:absolute;
+	top:75px;
+	width:970px;
+	height:220px;
+	left:165px;
+	background-image:url("ban5.jpg");
+}
+#about
+{
+	position:absolute;
+	top:295px;
+	width:1024px;
+	height:220px;
+	left:165px;
+	color:white;
+
+	background-image:url("slady2.png");
+}
+#gallery
+{
+	position:absolute;
+	top:515px;
+	width:1024px;
+	height:350px;
+	left:165px;
+}
+#map
+{
+	position:absolute;
+	top:865px;
+	width:1024px;
+	height:250px;
+	left:300px;
+	
+}
+#contact
+{
+	position:absolute;
+	top:1115px;
+	width:1024px;
+	height:235px;
+	left:165px;
+	font-family:Arial;
+	font-size:10pt;
+	color:white;
+	
+	
+}
+#bottom
+{
+	position:absolute;
+	top:1350px;
+	width:1024px;
+	height:50px;
+	left:165px;
+	color:white;
+	font-family:Arial;
+
+}
+#heading
+{
+	position:absolute;
+	top:35px;
+	left:150px;
+}
+#heading1
+{
+	position:absolute;
+	top:50px;
+	left:270px;
+}
+#heading0
+{
+	position:absolute;
+	top:35px;
+}
+#heading2
+{
+	position:absolute;
+	top:35px;
+	left:410px;
+}
+
+#heading3
+{
+	position:absolute;
+	top:35px;
+	left:600px;
+}
+#heading4
+{
+	position:absolute;
+	top:35px;
+	left:750px;
+}
+div.pic
+{
+	margin: 5px;
+		padding:2px;
+	height: auto;
+	width: auto;
+	float: left;
+	 
+	 
+}
+div.pic img
+{
+	display:inline;
+		margin: 5px;
+		border: 2px solid white;
+}
+
+div.desc
+{
+	text-align:center;
+
+	font-family:Arial Unicode MS;
+	font-size:10pt;
+	color:white;
+	width: 215px;
+	position:absolute;
+	
+
+	margin-left:7px; 
+}
+a
+{
+	text-decoration:none;
+	color:white;
+}
